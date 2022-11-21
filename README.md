@@ -1,4 +1,4 @@
-# Clusterisation of spatial sequence data for BGI
+# Clusterisation of spatial sequence data
 
 Test task for the BGI Junior Algorithm Developer position. 
 
